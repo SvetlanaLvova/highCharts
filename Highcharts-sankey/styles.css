@@ -1,0 +1,11 @@
+body {
+  background-color: rgba(78, 78, 78);
+  color: #00796B;
+}
+
+#container {
+  width: 40%;
+  margin: 10vh auto;
+}
+
+
