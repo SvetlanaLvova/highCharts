@@ -1,0 +1,2 @@
+highCharts графики
+
