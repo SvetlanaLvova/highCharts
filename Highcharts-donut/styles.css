@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+}
+
+#container {
+  width: 40%;
+  margin: 0 auto;
+  padding-top: 10vh;
+}
+
+.container-holder {
+  height: 100vh;
+  weight: 100vh;
+  background-color: rgba(78, 78, 78);
+  z-index: 2;
+}
+
+.dataPoints {
+  z-index: 1;
+}
+
+.pointsHolder {
+  display: flex;
+  justify-content: center;
+}
+
+.pointsHolder p {
+  color: #ffffff;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  margin-left: 1vh;
+}
+
+.greenPoint {
+width: 3vh;
+height: 3vh;
+border-radius: 100%;
+background-color: #77954D;
+margin-top: 10px;
+}
+
+.greyPoint {
+  width: 3vh;
+  height: 3vh;
+  border-radius: 100%;
+  background-color: #979797;
+  margin-top: 10px;
+  margin-left: 3vh;
+  }
+
+
